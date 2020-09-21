@@ -1314,12 +1314,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "40d40f28c951b31def056dafb5788e555c8773d1"
+                "reference": "dc57223b03ab423404305c95b052b2811e057906"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/40d40f28c951b31def056dafb5788e555c8773d1",
-                "reference": "40d40f28c951b31def056dafb5788e555c8773d1",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/dc57223b03ab423404305c95b052b2811e057906",
+                "reference": "dc57223b03ab423404305c95b052b2811e057906",
                 "shasum": ""
             },
             "require": {
@@ -1364,10 +1364,10 @@
             },
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-branding-merge",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-branding",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-09-10T13:53:46+00:00"
+            "time": "2020-09-21T19:19:51+00:00"
         },
         {
             "name": "md/saml",
@@ -1617,16 +1617,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v4.9.1",
+            "version": "v4.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "88e519766fc58bd46b8265561fb79b54e2e00b28"
+                "reference": "1c13d05035deff45f1230ca68bd7d74d621762d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/88e519766fc58bd46b8265561fb79b54e2e00b28",
-                "reference": "88e519766fc58bd46b8265561fb79b54e2e00b28",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/1c13d05035deff45f1230ca68bd7d74d621762d9",
+                "reference": "1c13d05035deff45f1230ca68bd7d74d621762d9",
                 "shasum": ""
             },
             "require": {
@@ -1665,7 +1665,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2020-08-30T16:15:20+00:00"
+            "time": "2020-09-19T14:52:48+00:00"
         },
         {
             "name": "onelogin/php-saml",
@@ -2794,16 +2794,16 @@
         },
         {
             "name": "silverstripe/googlesitemaps",
-            "version": "2.1.6",
+            "version": "2.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wilr/silverstripe-googlesitemaps.git",
-                "reference": "982d96c2036b7598f3d9ceab717bd3699a6baae6"
+                "reference": "17b21683a2083d698cdd1973bb7525094697aee7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wilr/silverstripe-googlesitemaps/zipball/982d96c2036b7598f3d9ceab717bd3699a6baae6",
-                "reference": "982d96c2036b7598f3d9ceab717bd3699a6baae6",
+                "url": "https://api.github.com/repos/wilr/silverstripe-googlesitemaps/zipball/17b21683a2083d698cdd1973bb7525094697aee7",
+                "reference": "17b21683a2083d698cdd1973bb7525094697aee7",
                 "shasum": ""
             },
             "require": {
@@ -2849,7 +2849,7 @@
                 "seo",
                 "silverstripe"
             ],
-            "time": "2020-06-02T20:36:14+00:00"
+            "time": "2020-09-10T18:23:40+00:00"
         },
         {
             "name": "silverstripe/graphql",
@@ -3502,16 +3502,16 @@
         },
         {
             "name": "silverstripe/userforms",
-            "version": "5.6.2",
+            "version": "5.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "162319512b218c2cfb8dc7b8ce92a2dbe5c54aad"
+                "reference": "347cfe6101d25ff19b510b33b15dd6c45b2e7a40"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/162319512b218c2cfb8dc7b8ce92a2dbe5c54aad",
-                "reference": "162319512b218c2cfb8dc7b8ce92a2dbe5c54aad",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/347cfe6101d25ff19b510b33b15dd6c45b2e7a40",
+                "reference": "347cfe6101d25ff19b510b33b15dd6c45b2e7a40",
                 "shasum": ""
             },
             "require": {
@@ -3576,7 +3576,7 @@
                 "silverstripe",
                 "userforms"
             ],
-            "time": "2020-09-02T01:47:09+00:00"
+            "time": "2020-09-16T00:26:47+00:00"
         },
         {
             "name": "silverstripe/vendor-plugin",
@@ -5516,16 +5516,16 @@
         },
         {
             "name": "phpdocumentor/reflection-docblock",
-            "version": "5.2.1",
+            "version": "5.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/ReflectionDocBlock.git",
-                "reference": "d870572532cd70bc3fab58f2e23ad423c8404c44"
+                "reference": "069a785b2141f5bcf49f3e353548dc1cce6df556"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/d870572532cd70bc3fab58f2e23ad423c8404c44",
-                "reference": "d870572532cd70bc3fab58f2e23ad423c8404c44",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/069a785b2141f5bcf49f3e353548dc1cce6df556",
+                "reference": "069a785b2141f5bcf49f3e353548dc1cce6df556",
                 "shasum": ""
             },
             "require": {
@@ -5564,20 +5564,20 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
-            "time": "2020-08-15T11:14:08+00:00"
+            "time": "2020-09-03T19:13:55+00:00"
         },
         {
             "name": "phpdocumentor/type-resolver",
-            "version": "1.3.0",
+            "version": "1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/TypeResolver.git",
-                "reference": "e878a14a65245fbe78f8080eba03b47c3b705651"
+                "reference": "6a467b8989322d92aa1c8bf2bebcc6e5c2ba55c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/e878a14a65245fbe78f8080eba03b47c3b705651",
-                "reference": "e878a14a65245fbe78f8080eba03b47c3b705651",
+                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/6a467b8989322d92aa1c8bf2bebcc6e5c2ba55c0",
+                "reference": "6a467b8989322d92aa1c8bf2bebcc6e5c2ba55c0",
                 "shasum": ""
             },
             "require": {
@@ -5609,7 +5609,7 @@
                 }
             ],
             "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
-            "time": "2020-06-27T10:12:23+00:00"
+            "time": "2020-09-17T18:55:26+00:00"
         },
         {
             "name": "phpspec/prophecy",
