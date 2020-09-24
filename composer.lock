@@ -1314,12 +1314,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "b36a1515cb0ead2ed2146eb6445d10ab8dc39508"
+                "reference": "e2b831419ee3a5ec0192847dc238bc8424e4a4c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b36a1515cb0ead2ed2146eb6445d10ab8dc39508",
-                "reference": "b36a1515cb0ead2ed2146eb6445d10ab8dc39508",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/e2b831419ee3a5ec0192847dc238bc8424e4a4c9",
+                "reference": "e2b831419ee3a5ec0192847dc238bc8424e4a4c9",
                 "shasum": ""
             },
             "require": {
@@ -1367,7 +1367,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-branding",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-09-21T20:52:01+00:00"
+            "time": "2020-09-24T15:26:52+00:00"
         },
         {
             "name": "md/saml",
@@ -1617,16 +1617,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v4.10.0",
+            "version": "v4.10.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "1c13d05035deff45f1230ca68bd7d74d621762d9"
+                "reference": "1b479e7592812411c20c34d9ed33db3957bde66e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/1c13d05035deff45f1230ca68bd7d74d621762d9",
-                "reference": "1c13d05035deff45f1230ca68bd7d74d621762d9",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/1b479e7592812411c20c34d9ed33db3957bde66e",
+                "reference": "1b479e7592812411c20c34d9ed33db3957bde66e",
                 "shasum": ""
             },
             "require": {
@@ -1665,7 +1665,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2020-09-19T14:52:48+00:00"
+            "time": "2020-09-23T18:23:49+00:00"
         },
         {
             "name": "onelogin/php-saml",
