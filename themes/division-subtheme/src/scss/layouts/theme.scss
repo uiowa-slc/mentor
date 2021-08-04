@@ -47,24 +47,5 @@
         font-size: rem-calc(18);
     }
 
-    &:hover, &:focus, &:active {
-        color: white;
-        background: #242424;
-        &:after{
-            border-color: white transparent transparent;
-        }
-    }
-    &:hover {
-        cursor: pointer;
-    }
-
-    &--mobile{
-        color: #fff;
-    }
-    &--mobile-toggle {
-        width: 100%;
-        text-align: left;
-        text-transform: none;
-    }
 }
 
