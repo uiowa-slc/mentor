@@ -162,12 +162,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/colymba/GridFieldBulkEditingTools.git",
-                "reference": "d51a26a872fdd9bac409bd355eac891ba1a9ea15"
+                "reference": "c34bba450818de295a64984141d692c8dd617385"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/d51a26a872fdd9bac409bd355eac891ba1a9ea15",
-                "reference": "d51a26a872fdd9bac409bd355eac891ba1a9ea15",
+                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/c34bba450818de295a64984141d692c8dd617385",
+                "reference": "c34bba450818de295a64984141d692c8dd617385",
                 "shasum": ""
             },
             "require": {
@@ -216,9 +216,9 @@
             ],
             "support": {
                 "issues": "https://github.com/colymba/GridFieldBulkEditingTools/issues",
-                "source": "https://github.com/colymba/GridFieldBulkEditingTools/tree/3.0.1"
+                "source": "https://github.com/colymba/GridFieldBulkEditingTools/tree/master"
             },
-            "time": "2021-06-02T04:33:10+00:00"
+            "time": "2021-08-05T06:31:32+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -1419,12 +1419,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "cf634bb9eb91863c88b30945993eb58cfdff2dba"
+                "reference": "a3b2c3057f06f63c19c9b8cb8f3d4138333f7a59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/cf634bb9eb91863c88b30945993eb58cfdff2dba",
-                "reference": "cf634bb9eb91863c88b30945993eb58cfdff2dba",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a3b2c3057f06f63c19c9b8cb8f3d4138333f7a59",
+                "reference": "a3b2c3057f06f63c19c9b8cb8f3d4138333f7a59",
                 "shasum": ""
             },
             "require": {
@@ -1474,7 +1474,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/3",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2021-08-04T16:26:39+00:00"
+            "time": "2021-08-05T21:25:48+00:00"
         },
         {
             "name": "md/saml",
